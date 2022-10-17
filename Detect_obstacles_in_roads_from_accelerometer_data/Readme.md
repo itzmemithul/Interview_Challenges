@@ -12,7 +12,7 @@ i) potholes \
 ii) speed bumps \
 iii) manholes \
 iv) cracks in the roads \
-v) etc. \
+v) etc. 
 
 It is not expected that the candidate will manage to detect all of the above categories but should rather focus on one or two of them with a higher priority
 the potholes and speed bumps
@@ -36,10 +36,10 @@ The XYZ dataset contains 10hz measurements of the accelerometer of a single vehi
 | vehicle_make      | string         | The vehicle brand            |  -              |  hyundai \
 | vehicle_model     | string         | The vehicle model            |  -              |  accent \
 | vehicle_type      | string         | The vehicle type             |  -              |  car \
-| road_type         | string         | The type of the road         |  -              |  local_road \
+| road_type         | string         | The type of the road         |  -              |  local_road 
 
 iii) Expected results
-* The candidate should create a folder with his/her name inside the directory <<Results>>
+* The candidate should create a folder with his/her name inside the directory 'Results'
 * Add inside their folder the python file or notebook of the analysis
 * The presentation of the designed solution
 * Any other material they want to include
