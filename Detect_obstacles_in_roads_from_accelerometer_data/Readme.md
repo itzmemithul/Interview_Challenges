@@ -24,15 +24,18 @@ The XYZ dataset contains 10hz measurements of the accelerometer of a single vehi
 ------------------------------------------------------------------------------------------
 | Field             | Type           | Description                  | Unit precision  | Example \
 ------------------------------------------------------------------------------------------ \
+| time              | datetime       | 10hz frequency timestamp     |  datetime       | 2022-09-29T09:54:34.315+0000 \
 | acc_x             | float          | x-axis acceleration value    |  milli-g        | 10.4 \
 | acc_y             | float          | y-axis acceleration value    |  milli-g        |  9.3 \
 | acc_z             | float          | z-axis acceleration value    |  milli-g        |  9.3 \
 | speed             | float          | The acceleration speed       |  km/h           |  15.3 \
 | road_speed_limit  | integer        | The road speed limit         |  km/h           |  120 \
+| heading           | float          | Geo position heading         |  degrees        |  359 \
 | latitude          | float          | Geo position latitude        |  degrees        |  45.458943 \
 | longitude         | float          | Geo position longitude       |  degrees        |  2.228940 \
 | vehicle_make      | string         | The vehicle brand            |  -              |  hyundai \
 | vehicle_model     | string         | The vehicle model            |  -              |  accent \
+| vehicle_type      | string         | The vehicle type             |  -              |  car \
 | road_type         | string         | The type of the road         |  -              |  local_road \
 
 iii) Expected results
