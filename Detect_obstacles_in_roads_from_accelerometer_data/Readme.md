@@ -7,11 +7,11 @@ These detections will be used for the development of a digital twin platform whe
 and provide data solutions in road authorities and municipalities where they can prioritize the fixing of obstacles 
 that are causing dangerous events or accidents in the roads
 
-Potential objects to detect are listed below: \
-* potholes \
-* speed bumps \
-* manholes \
-* cracks in the roads \
+Potential objects to detect are listed below: 
+* potholes 
+* speed bumps 
+* manholes 
+* cracks in the roads 
 * etc. 
 
 It is not expected that the candidate will manage to detect all of the above categories but should rather focus on one or two of them with a higher priority
