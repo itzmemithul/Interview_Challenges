@@ -19,7 +19,7 @@ the potholes and speed bumps
 
 #### ii) DATA UNDERSTANDING
 
-The XYZ dataset contains 10hz measurements of the accelerometer of a single vehicle for one day movement activity in rome.
+The XYZ dataset contains 10hz measurements of the accelerometer of a single vehicle for one day movement activity in Bilbao, SP.
 
 ------------------------------------------------------------------------------------------
 | Field             | Type           | Description                  | Unit precision  | Example \
